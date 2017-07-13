@@ -1,0 +1,81 @@
+@charset "utf-8";
+#container { margin:0px auto; width:1000px; height:1040px; 	border:#FF0000 0px solid;}
+#headderup {
+	vertical-align: top;
+	display: inherit;
+	margin: 0px;
+	padding: 0px;
+	clear: none;
+	float: none;
+	height: 120px;
+	width: 1090px;
+	background: url(../image/bhade.jpg);
+}
+#storyopd {
+	margin:0px auto; 
+	display: inherit;
+	height: 80px;
+	width: 1000px;
+	background:#ABDEA3;
+	
+}
+#storyopd td, th, tr { font-family:Tahoma, Geneva, sans-serif; font-size:13px; height:15px;}
+
+#headdercard {
+	vertical-align: top;
+	display: inherit;
+	margin: 0px;
+	padding: 0px;
+	clear: none;
+	float: none;
+	height: 100px;
+	width: 1090px;
+	background:#E3F4E1;
+}
+#lefttable {
+	vertical-align: top;
+	display: inherit;
+	margin: 5px;
+	padding: 5px;
+	clear: none;
+	float: left;
+	height:100%; 
+	width: 540px;
+	font-size: 14px;
+	font-style: normal;
+	background: #E3F4E1;
+}
+#righttable {
+	vertical-align: top;
+	display: inherit;
+	margin: 10px;
+	padding:5px;
+	clear: none;
+	height: 700px;
+	width: 500px;
+	float: right;
+	font-size: 14px;
+	font-style: normal;
+	background:#E3F4E1;
+}
+#strorymidle {
+	vertical-align: top;
+	display: inherit;
+	margin: 10px 0px 50px 0px;
+	padding:5px;
+	clear: none;
+	height: 700px;
+	width: 1000px;
+	float:left;
+	font-size: 14px;
+	font-style: normal;
+	background:#E3F4E1;
+}
+
+
+
+
+
+#footdown {
+	margin:0px auto; width:1100px; height:20px;  border:#ABDEA3 1px solid; text-align:center; background:#E3F4E1;  
+}

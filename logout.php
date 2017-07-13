@@ -1,0 +1,9 @@
+<?php
+session_start();
+unset($_SESSION['Username']);
+unset($_SESSION['SERVICE']);
+unset($_SESSION['REPORT']);
+unset($_SESSION['ADMIN']);
+header("location:index.php");
+session_destroy();
+?>
